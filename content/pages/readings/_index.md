@@ -72,7 +72,7 @@ Hreljac, Alan. "[Impact and Overuse Injuries in Runners](http://dx.doi.org/10.12
 
 Cosca, David. D., and Franco Navazio. "[Common Problems in Endurance Athletes](http://www.aafp.org/afp/2007/0715/p237.html)." _American Family Physician_ 76, no. 2 (2007): 237–44.
 
-American Orthopaedic Society for Sports Medicine. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Conditioning Tips." (PDF - 1.5MB)](https://www.stopsportsinjuries.org/STOP/STOP/Prevent_Injuries/Conditioning_Tips.aspx) StopSportsInjuries.org. 2011.
+American Orthopaedic Society for Sports Medicine. ["Conditioning Tips." (PDF - 1.5MB)](https://www.stopsportsinjuries.org/STOP/STOP/Prevent_Injuries/Conditioning_Tips.aspx) StopSportsInjuries.org. 2011.
 
 Heiderscheit, Bryan C., Marc A. Sherry, et al. "[Hamstring Strain Injuries:Recommendations for Diagnosis, Rehabilitation, and Injury Prevention](http://dx.doi.org/10.2519/jospt.2010.3047)." _Journal of Orthopaedic & Sports Physical Therapy_ 40, no. 2 (2010): 67. 
 
@@ -172,7 +172,7 @@ Science of swimming
 
 ### Required
 
-Craig, Jr., Albert B., and David R. Pendergast. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Relationships of Stroke Rate, Distance per Stroke, and Velocity in Competitive Swimming." (PDF - 1.4MB)](http://www.teamtermin.com/docs/Relationships_of_Stroke_Rate_Velocity_and_Distance_Per_Stroke_Pendergast_Craig_1976.pdf) _Medicine and Science in Sports_ 11, no. 3 (1979): 278–83.
+Craig, Jr., Albert B., and David R. Pendergast. ["Relationships of Stroke Rate, Distance per Stroke, and Velocity in Competitive Swimming." (PDF - 1.4MB)](http://www.teamtermin.com/docs/Relationships_of_Stroke_Rate_Velocity_and_Distance_Per_Stroke_Pendergast_Craig_1976.pdf) _Medicine and Science in Sports_ 11, no. 3 (1979): 278–83.
 
 Toussaint, H. M., et al. "[Effect of a Triathlon Wet Suit on Drag During Swimming](http://journals.lww.com/acsm-msse/Abstract/1989/06000/Effect_of_a_triathlon_wet_suit_on_drag_during.17.aspx)." _Medicine and Science in Sports and Exercise_ 21, no. 3 (1989): 325–8.
 

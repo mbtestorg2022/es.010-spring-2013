@@ -17,7 +17,7 @@ Hersh, Aaron. "Natural Born Athlete." _Triathlete,_ March 2011.
 
 Fitzgerald, Matt. "Will Genetic Doping Be the End of Sports?" _Triathlete_, April 2009.
 
-Koubova, Jana, and Leonard Guarente. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[How Does Calorie Restriction Work?"](http://dx.doi.org/10.1101/gad.1052903) _Genes & Development_ 17 (2003): 313–21.
+Koubova, Jana, and Leonard Guarente. "[How Does Calorie Restriction Work?"](http://dx.doi.org/10.1101/gad.1052903) _Genes & Development_ 17 (2003): 313–21.
 
 Colman, Ricki J., et. al. "[Caloric Restriction Delays Disease Onset and Mortality in Rhesus Monkeys](http://dx.doi.org/10.1126/science.1173635)." _Science_ 325, no. 5937 (2009): 201–4.
 
